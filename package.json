@@ -1,0 +1,30 @@
+{
+	"name": "drops-of-gold-google-chrome",
+	"version": "1.0.0",
+	"description": "Drops of gold — A beautiful theme with hand-picked & bold drops of gold for Google Chrome Browser.",
+	"license": "MIT",
+	"repository": "thijsmoensdev/drops-of-gold-google-chrome",
+	"author": {
+		"name": "Thijs Moens",
+		"email": "thijs@thijsmoens.co",
+		"url": "https://thijsmoens.co"
+	},
+	"keywords": [
+		"drops of gold",
+		"chrome",
+		"theme",
+		"browser",
+		"gold"
+	],
+	"files": [
+		"theme"
+	],
+	"scripts": {
+		"format": "prettier --write \"./**/*.{js,json}\"",
+		"prezip": "find . -name '*.pak' -type f -delete >/dev/null 2>&1 && find . -name '*.zip' -type f -delete >/dev/null 2>&1",
+		"zip": "cd ./theme/drops-of-gold/ && zip -r ./../drops-of-gold.zip . -x '.*' -x '__MACOSX' -x 'Cached Theme.pak' >/dev/null 2>&1"
+	},
+	"devDependencies": {
+		"prettier": "^2.0.5"
+	}
+}

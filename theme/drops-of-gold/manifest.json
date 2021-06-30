@@ -1,0 +1,40 @@
+{
+	"name": "Drops of gold Google Chrome Theme",
+	"description": "A handcrafted theme for the Google Chrome Browser.",
+	"manifest_version": 3,
+	"version": "1.0.0",		
+	"icons": {
+		"16": "images/drops-of-gold-icon16.png",
+		"48": "images/drops-of-gold-icon48.png",
+		"96": "images/drops-of-gold-icon96.png",
+		"128": "images/drops-of-gold-icon128.png"
+	},
+	"theme": {
+		"colors": {
+			"frame": [61, 61, 61],
+			"frame_inactive": [48, 48, 48],
+			"frame_incognito": [45, 45, 45],
+			"frame_incognito_inactive": [36, 36, 36],
+			"ntp_background": [61, 61, 61],
+			"toolbar": [160, 143, 104],
+			"tab_text": [255, 255, 255],
+			"tab_background_text": [138, 138, 138],
+			"tab_background_text_inactive": [158, 158, 158],
+			"bookmark_text": [226, 221, 209],
+			"tab_background_text_incognito": [234, 234, 234],
+			"tab_background_text_incognito_inactive": [129, 129, 129],
+			"ntp_text": [48, 48, 48],
+			"background_tab": [61, 61, 61],
+			"background_tab_inactive": [61, 61, 61],
+			"background_tab_incognito": [61, 61, 61],
+			"background_tab_incognito_inactive": [36, 36, 36],
+			"toolbar_button_icon": [48, 48, 48]
+		},
+		"tints": {
+			"buttons": [188,176,149]
+		},
+		"images" : {
+			"theme_ntp_background" : "images/drops-of-gold-background.png"
+		}
+	}
+}
