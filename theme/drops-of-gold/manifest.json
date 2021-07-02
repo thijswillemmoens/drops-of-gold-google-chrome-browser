@@ -28,7 +28,7 @@
 			"background_tab_incognito_inactive": [36, 36, 36],
 			"toolbar_button_icon": [48, 48, 48],
 			"omnibox_text": [96, 85, 62] ,
-    		"omnibox_background": [226, 221, 209],
+    		"omnibox_background": [179, 165, 134],
     		"ntp_header": [198, 187, 164] ,
 			"ntp_background": [61, 61, 61],
     		"ntp_link": [160, 143, 104],
