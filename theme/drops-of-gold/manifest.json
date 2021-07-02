@@ -32,7 +32,7 @@
     		"ntp_header": [198, 187, 164] ,
 			"ntp_background": [61, 61, 61],
     		"ntp_link": [160, 143, 104],
-			"ntp_text": [255, 255, 255],
+			"ntp_text": [255, 255, 255]
 		},
 		"tints": {
 			"buttons": [188,176,149]
