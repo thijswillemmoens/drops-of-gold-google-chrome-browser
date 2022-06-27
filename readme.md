@@ -18,15 +18,15 @@ Just look for Drops of Gold Theme in the Google Web Store. [Download from Google
 ## Changelog
 [❯ Read the changelog here →](changelog.md)
 
-## :pager: Support
+## Support
 
 If you need a hand with this theme, [drop me a line](https://thijs.website/contact)
 
-## :bug: Reporting bugs
+## Reporting bugs
 
 If you find an issue, [let me know here on Github](https://github.com/thijswmoens/drops-of-gold-google-chrome/issues/new) or use the contact form [on my website](https://thijs.webiste/bugs).
 
-## :ticket: Contributions
+## Contributions
 
 Anyone is welcome to contribute to this Google Chrome Theme.
 
