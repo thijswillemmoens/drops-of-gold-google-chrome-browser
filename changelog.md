@@ -14,8 +14,8 @@ The changelog for the Drops of Gold Google Chrome color theme.
 
 **New**
 
--   [Added prettier json file](https://github.com/thijswmoens/drops-of-gold-google-chrome/issues/8)
--   [Added sponsorlink to Paypal](https://github.com/thijswmoens/drops-of-gold-google-chrome/issues/9)
+-   [Added prettier json file](https://github.com/thijswillemmoens/drops-of-gold-google-chrome/issues/8)
+-   [Added sponsorlink to Paypal](https://github.com/thijswillemmoens/drops-of-gold-google-chrome/issues/9)
 
 **Doc**
 
